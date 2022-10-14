@@ -1,3 +1,3 @@
 # CAU-LetsCode
 
-This is archive of my Projects in CAU.
+This is a archive of my Projects in CAU.
